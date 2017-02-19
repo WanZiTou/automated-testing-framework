@@ -3,7 +3,7 @@ package com.sand.qa.dataprovider;
 /**
  * File To DataProvider Interface
  * 
- * @author nihuaiqing
+ * @author lium
  */
 public interface IData {
 

@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Data DataProvider Impl
  * 
- * @author nihuaiqing
+ * @author lium
  */
 public class DataProviderImpl implements IData {
 	// 这里是读取的路径
